@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **recursionconstant/recursionconstant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
      * **Email:** [recursionconstant@gmail.com](mailto:recursionconstant@gmail.com) — Drop a line to critique, comment, or collaborate.
      * **YouTube:** [@RecursionConstant](https://youtube.com) — Watch me code and master programming concepts along with me! 
 - ⚡ Fun fact: ... 
--->
+
