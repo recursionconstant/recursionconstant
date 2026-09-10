@@ -14,6 +14,6 @@ Here are some ideas to get you started:
      I am always looking to improve my tech skills through mutual learning and constructive criticism. Feel free to reach out, 
      share your thoughts, or suggest improvements to my work!
      * **Email:** [recursionconstant@gmail.com](mailto:recursionconstant@gmail.com) — Drop a line to critique, comment, or collaborate.
-     * **YouTube:** [@RecursionConstant](https://youtube.com) — Watch me code and master programming concepts along with me! 
+     * **YouTube:** [@RecursionConstant](https://www.youtube.com/@RecursionConstant) — Watch me code and master programming concepts along with me! 
 - ⚡ Fun fact: ... 
 
