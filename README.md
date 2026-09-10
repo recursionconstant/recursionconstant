@@ -5,18 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Java
-- 🌱 I’m currently learning ... Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... Problem solving
+- 🔭 I’m currently working on ... Java full stack development.
+- 🌱 I’m currently learning ... Java full stack development and more...
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-    Feel free to reach out to me via Gmail - recursionconstant@gmail.com
-    Where you can critique, share your thoughts, comments, and suggestions. 
-    Help me improve my tech skills through mutual learning and constructive criticism. 
-
-    Check out my programming videos on my YouTube channel - https://www.youtube.com/@RecursionConstant
-    Watch me code, and learn programming concepts along with me. 
-- 😄 Pronouns: ... I AM THE KING.
+     I am always looking to improve my tech skills through mutual learning and constructive criticism. Feel free to reach out, 
+     share your thoughts, or suggest improvements to my work!
+     * **Email:** [recursionconstant@gmail.com](mailto:recursionconstant@gmail.com) — Drop a line to critique, comment, or collaborate.
+     * **YouTube:** [@RecursionConstant](https://youtube.com) — Watch me code and master programming concepts along with me! 
 - ⚡ Fun fact: ... 
 -->
